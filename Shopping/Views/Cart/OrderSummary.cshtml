@@ -1,0 +1,103 @@
+﻿@model IEnumerable<Shopping.ViewModels.OrderSummaryViewModel>
+
+@{
+    Layout = "_Layout";
+}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+<div>
+    <input type="button" class="btn btn-primary" value="Back" onclick="location.href='@Url.Action("Categories", "ProductsCategories")'" />
+</div>
+<div id="resultContainer">
+    <table class="table table-hover" border="2">
+        <thead>
+            <tr>
+                <th scope="col">Item Name</th>
+                <th scope="col">Image</th>
+                <th scope="col">Unit Price</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Total Item Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-primary">
+                    <th scope="row">@item.Name</th>
+                    <td>
+                        <button type="button" onclick="DecreaseItem(@item.ProductId,@item.Price)" class="btn btn-dark">-</button>
+                        <img style="width:30%;height:30px" src="@item.Image" class="card-img-top" alt="...">
+                        <button type="button" onclick="IncreaseItem(@item.ProductId,@item.Price)" class="btn btn-dark">+</button>
+                    </td>
+                    <td>@item.Price</td>
+                    <td id="quantity_@item.ProductId">@item.Quantity</td>
+                    <td id="price_@item.ProductId">@(item.Quantity * item.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="my-2">
+        <h5>Total(INR): <span id="totalAmount">@ViewBag.TotalAmount</span></h5>
+        <a class="btn btn-primary" href="/Cart/Checkout">Checkout</a>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        async function IncreaseItem(productId, price) {
+            try {
+                var response = await fetch(`/Cart/IncreaseItem?productId=${productId}`, {
+                    method: 'POST'
+                });
+
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var productQuantity = document.getElementById(`quantity_${productId}`);
+                    productQuantity.textContent = result;
+                    var productPrice = document.getElementById(`price_${productId}`);
+                    productPrice.textContent = result * price;
+                    DisplayTotalAmount();
+                }
+            } catch (err) {
+                console.log(err);
+            }
+        }
+
+        async function DecreaseItem(productId, price) {
+            try {
+                var response = await fetch(`/Cart/DecreaseItem?productId=${productId}`, {
+                    method: 'POST'
+                });
+
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var productQuantity = document.getElementById(`quantity_${productId}`);
+                    productQuantity.textContent = result;
+                    if (result === 0) {
+                        var row = productQuantity.closest('tr');
+                        row.remove();
+                    }
+                    else {
+                        var productPrice = document.getElementById(`price_${productId}`);
+                        console.log(productPrice);
+                        productPrice.textContent = result * price;
+                    }
+                    DisplayTotalAmount();
+                }
+            } catch (err) {
+                console.log(err);
+            }
+        }
+
+        async function DisplayTotalAmount() {
+            var response = await fetch(`/Cart/UpdatedTotalAmount`, {
+                method: 'GET'
+            });
+            var result = await response.json();
+            var displayAmount = document.getElementById(`totalAmount`);
+            displayAmount.textContent = result;
+        }
+
+    </script>
+}
+

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Shopping.Models.Product>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+<br />
+<div>
+    <input type="button" class="btn btn-primary" value="Back" onclick="location.href='@Url.Action("Index", "Home")'" />
+</div>
+
+<div class="w-100 mt-4 d-flex flex-wrap ">
+    @foreach (var item in Model)
+    {
+        <div class="card mx-3 mb-4" style="width: 11rem;">
+            <img style="width:100%;height:180px" src="@item.Image" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">
+                    @item.Description <br />
+                    <b>Price: </b>@item.Price <br />
+                </p>
+                <button type="button" onclick="add(@item.ProductId)" class="btn btn-primary">Add to cart</button>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts{
+    <script>
+        async function add(productId) {
+            try {
+                var response = await fetch(`/Product/AddDataToOrderDetail?productId=${productId}`, {
+                    method: 'POST'
+                });
+
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var cartCountEl = document.getElementById("cartCountBadge");
+                    cartCountEl.innerHTML = result;
+                    window.location.href = "#cartCountBadge";
+                }
+            } catch (err) {
+                console.log(err);
+            }
+        }
+    </script>
+}

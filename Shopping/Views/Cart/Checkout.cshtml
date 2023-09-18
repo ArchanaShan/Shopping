@@ -1,0 +1,41 @@
+﻿@model Shopping.ViewModels.CheckOutDetailsViewModel;
+
+@{
+    Layout = "_Layout";
+}
+<br />
+<h4>Order Receipt</h4>
+<p>Order Number: @Model.OrderId</p>
+<p>Date: @DateTime.Now.ToString("f")</p>
+
+<h4>Shipping Details</h4>
+<p>Name: @Model.FirstName @Model.LastName</p>
+<p>Address: @Model.Address</p>
+<p>Phone: @Model.Phone</p>
+
+<h4>Order Details</h4>
+<table class="table table-hover" border="2">
+    <thead>
+        <tr>
+            <th scope="col">Product</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Unit Price</th>
+            <th scope="col">Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listOrderDetails)
+        {
+            <tr class="table-primary">
+                <th scope="row">@item.Name</th>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>@(item.Quantity * item.Price)</td>
+            </tr>
+        }
+        <tr>
+            <td colspan="3">Grand Total</td>
+            <td>@Model.TotalAmount</td>
+        </tr>
+    </tbody>
+</table>

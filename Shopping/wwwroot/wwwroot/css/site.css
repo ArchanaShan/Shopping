@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.logoutLblPos{
+    position: fixed;
+    right:10px;
+    top:5px;
+    color:white;
+}
+
+.username {
+    color: white;
+    margin-right: 10px;
+    margin-top: 0.1cm;
+    margin-left:10px;
+}
+.inline-links {
+    display: inline-block;
+    margin-right: 10px;
+}

@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shopping.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\Mango.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\Mango.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\Pomogranate.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\Pomogranate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\banana.png",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\banana.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\cherry.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\cherry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\graps.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\graps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\kiwi.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\kiwi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\orange.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\papaya.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\papaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\pineapple.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\pineapple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\strawberry.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\strawberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Fruits\\watermelon.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fruits\\watermelon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Vegetables\\onion.png",
+      "PackagePath": "staticwebassets\\Images\\Vegetables\\onion.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\Images\\Vegetables\\tomato.png",
+      "PackagePath": "staticwebassets\\Images\\Vegetables\\tomato.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\Mango.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\Mango.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\Pomogranate.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\Pomogranate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\apple.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\banana.png",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\banana.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\cherry.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\cherry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\graps.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\graps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\kiwi.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\kiwi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\orange.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\papaya.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\papaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\pineapple.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\pineapple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\strawberry.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\strawberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Fruits\\watermelon.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Fruits\\watermelon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Vegetables\\onion.png",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Vegetables\\onion.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\Images\\Vegetables\\tomato.png",
+      "PackagePath": "staticwebassets\\wwwroot\\Images\\Vegetables\\tomato.png"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91948\\OneDrive\\Documents\\New folder\\Shopping\\Shopping\\wwwroot\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shopping.props",
+      "PackagePath": "build\\Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping.props",
+      "PackagePath": "buildMultiTargeting\\Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shopping.props",
+      "PackagePath": "buildTransitive\\Shopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
