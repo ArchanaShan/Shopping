@@ -90,3 +90,4 @@ C:\Users\91948\OneDrive\Documents\New folder\Shopping\Shopping\obj\Debug\net6.0\
 C:\Users\91948\OneDrive\Documents\New folder\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
 C:\Users\91948\OneDrive\Documents\New folder\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
 C:\Users\91948\OneDrive\Documents\New folder\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+C:\Users\91948\OneDrive\Documents\New folder\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
